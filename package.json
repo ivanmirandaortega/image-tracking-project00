@@ -1,0 +1,22 @@
+{
+  "name": "image-tracking-project00",
+  "version": "1.0.0",
+  "description": "image-tracking-web-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanmirandaortega/image-tracking-project00.git"
+  },
+  "author": "Ivan Miranda Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanmirandaortega/image-tracking-project00/issues"
+  },
+  "homepage": "https://github.com/ivanmirandaortega/image-tracking-project00#readme",
+  "dependencies": {
+    "three": "^0.149.0"
+  }
+}
